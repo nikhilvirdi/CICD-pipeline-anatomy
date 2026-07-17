@@ -1,0 +1,23 @@
+### Glossary
+
+- **Artifact** — the packaged output of a build, usually a container image, that moves unchanged through every later stage of the pipeline.
+- **Blast radius** — how much of the live user base is exposed to a problem in a new deployment before it's caught or rolled back.
+- **Blue-green deployment** — a strategy that keeps two full environments running, switching all traffic from one to the other at once.
+- **Build** — the stage that compiles or bundles source code into a runnable form.
+- **Canary deployment** — a strategy that routes a small, deliberately limited slice of real traffic to a new version before expanding it.
+- **CI (Continuous Integration)** — automatically building and testing every code change as it's merged, on a clean, shared machine.
+- **CD (Continuous Delivery / Continuous Deployment)** — getting a passing build into production, either with a manual approval step (delivery) or fully automatically (deployment).
+- **Checkout** — pulling the exact commit being tested out of version control at the start of a pipeline run.
+- **Coverage** — the proportion of a codebase actually exercised by its test suite.
+- **Drift** — the gradual divergence between environments (or between a local machine and a clean one) caused by uncommitted state, cached versions, or manual changes.
+- **Gate** — a checkpoint a change must pass, automated or manual, before moving to the next stage.
+- **Health check** — an automated check, run right after a deploy, confirming the new version came up correctly in that specific environment.
+- **Observability** — the ongoing collection of metrics, logs, and traces from a running system, used to catch problems that only appear over time.
+- **Pipeline** — a sequence of stages where each stage's output becomes the next stage's input.
+- **Registry** — where built artifacts (usually container images) are stored and pulled from during deployment.
+- **Rolling deployment** — a strategy that replaces old instances with new ones gradually, a few at a time, rather than all at once.
+- **Rollback** — reverting to the last known-good version after a deploy is found to be broken.
+- **SAST (Static Application Security Testing)** — scanning source code for security issues and unsafe patterns without executing it.
+- **Smoke test** — a shallow, fast check that a deployment came up and is minimally functional, distinct from the full test suite.
+- **Staging** — an environment meant to resemble production closely enough to surface problems before a real release.
+- **Trigger** — the event, usually a commit or a pull request, that starts a pipeline run.
