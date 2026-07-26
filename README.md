@@ -5,3 +5,4 @@ This repo exists to explain the CI/CD pipeline as a structural reference: what h
 For an interactive version of this diagram, visit [CI/CD Pipeline Anatomy](https://nikhilvirdi.github.io/Pipeline-Anatomy/).
 
 The diagram is built using: React, React Flow, and Tailwind CSS. 
+And deployed using: GitHub Actions and GitHub Pages.
