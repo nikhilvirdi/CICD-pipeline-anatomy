@@ -4,6 +4,7 @@ This repo exists to explain the CI/CD pipeline as a structural reference: what h
 
 For an interactive version of this diagram, visit [CI/CD Pipeline Anatomy](https://nikhilvirdi.github.io/Pipeline-Anatomy/).
 
-The diagram is built using: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+The diagram is built using: 
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+![React Flow](https://img.shields.io/badge/React%20Flow-000000?style=flat-square&logo=react&logoColor=FF0072)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss)
