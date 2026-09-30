@@ -5,9 +5,9 @@ This repo exists to explain the CI/CD pipeline as a structural reference: what h
 
 For an interactive version of this diagram, visit [CI/CD Pipeline Anatomy](https://nikhilvirdi.github.io/Pipeline-Anatomy/).
 
-For its codebase, visit [Pipeline-Anatomy](https://github.com/nikhilvirdi/Pipeline-Anatomy).
+For diagram's codebase, visit [Pipeline-Anatomy](https://github.com/nikhilvirdi/Pipeline-Anatomy).
 
-For the static version, visit [CICDPipeline.png](CICDPipeline.png).
+For the static version of the diagram, visit [CICDPipeline.png](CICDPipeline.png).
 
 The exact draw.io diagram is also available as [CICDPipeline.drawio](CICDPipeline.drawio).
 
