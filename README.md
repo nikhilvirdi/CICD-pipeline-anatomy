@@ -1,5 +1,5 @@
 ### The CI/CD Pipeline Anatomy
-<img width="300" alt="CI-CD Pipeline Anatomy" src="https://github.com/user-attachments/assets/0bd3c4c7-8a97-450e-ad3a-0d5069e177d5" />
+<img width="275" alt="CI-CD Pipeline Anatomy" src="https://github.com/user-attachments/assets/0bd3c4c7-8a97-450e-ad3a-0d5069e177d5" />
 
 
 This repo exists to explain the CI/CD pipeline as a structural reference: what happens at each phase, and why the stages are ordered the way they are. It's meant as a place to think through the logic behind the pipeline, not as a tutorial or a working implementation.
